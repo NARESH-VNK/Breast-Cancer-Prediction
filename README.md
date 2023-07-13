@@ -142,7 +142,7 @@ Overall, this project will enhance in  understanding of breast cancer prediction
  - The dataset used in this project was sourced from guvi  and is used for educational purposes only.  We    acknowledge and thank the contributors of the dataset for making it publicly available.
 
 
-- For more details and a better understanding of the project, please refer to the Google Colab file (BreastCancerPrediction.ipynb) provided in this repository.
+- For more details and a better understanding of the project, please refer to the Google Colab file (BreastCancerPrediction.ipynb) and (breastcancer.py) provided in this repository.
 
 Thanks!
 
