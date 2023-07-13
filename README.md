@@ -1,5 +1,4 @@
 
-
 # Breast Cancer Prediction using Ensemble Techniques
 
 - Breast cancer represents one of the diseases that make a high number of deaths every year. It is the most common type of all cancers and the main cause of women's deaths worldwide.
@@ -140,10 +139,10 @@ Overall, this project will enhance in  understanding of breast cancer prediction
 
 
 ## Acknowledgements
- - The dataset used in this project was sourced from guvi  and is used for educational purposes only.  We acknowledge and thank the contributors of the dataset for making it publicly available.
+ - The dataset used in this project was sourced from guvi  and is used for educational purposes only.  We    acknowledge and thank the contributors of the dataset for making it publicly available.
 
 
-- For more details and a better understanding of the project, please refer to the Google Colab file (BreastCancerPrediction.ipynb) and (breastcancer.py) provided in this repository.
+- For more details and a better understanding of the project, please refer to the Google Colab file (BreastCancerPrediction.ipynb) provided in this repository.
 
 Thanks!
 
