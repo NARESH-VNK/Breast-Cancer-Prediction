@@ -133,7 +133,9 @@ Overall, this project will enhance in  understanding of breast cancer prediction
 - The results will be evaluated based on metrics such as accuracy, precision, recall, F1 score and confusion matrix. 
 - By analyzing the performance metrics, we can determine the model's effectiveness in identifying benign and malignant cases.
 
-
+## Conclusion
+- This project contributes to the field of breast cancer prediction by utilizing ensemble techniques and exploring various performance evaluation metrics. By accurately predicting breast cancer cases, medical professionals can make informed decisions about diagnosis and treatment, potentially improving patient outcomes.
+- The knowledge gained from this project enhances our understanding of ensemble techniques and their applicability in medical data analysis.
 
 
 
